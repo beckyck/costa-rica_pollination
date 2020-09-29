@@ -9,7 +9,7 @@ import sys
 import natcap.invest.pollination
 from osgeo import gdal
 
-gdal.SetCacheMax(2**28)
+gdal.SetCacheMax(2**27)
 
 logging.basicConfig(
     level=logging.DEBUG,
