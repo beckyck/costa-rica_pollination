@@ -7,6 +7,7 @@
 
 import logging
 import sys
+import multiprocessing
 import natcap.invest.pollination
 from osgeo import gdal
 
@@ -29,6 +30,7 @@ args = {
     'landcover_raster_path': 'LULC_CR_clip_md5_63afaeac99fcb39a754ead3ab308031e.tif',
     'results_suffix': '17guilds',
     'workspace_dir': 'pollination_workspace',
+    'n_workers': multiprocessing.cpu_count()
 }
 
 if __name__ == '__main__':
