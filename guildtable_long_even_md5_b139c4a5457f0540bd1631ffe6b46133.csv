@@ -1,0 +1,18 @@
+species,filenm,nesting_suitability_cavity_index,nesting_suitability_ground_index,foraging_activity_spring_index,alpha,relative_abundance,other_spp
+Apis mellifera,Apis_mellifera_avg.asc,1,0,1,3000,1,
+Melipona beecheii,Melipona_beecheii_avg.asc,1,0,1,5000,1,
+Melipona bicolor,Melipona_bicolor_avg.asc,1,0,1,2200,1,
+Melipona compressipes,Melipona_compressipes_avg.asc,1,0,1,2470,1,
+Melipona costaricensis,Melipona_costaricensis_avg.asc,1,0,1,2100,1,Melipona fasciata
+Melipona eburnea,Melipona_eburnea_avg.asc,1,0,1,2547,1,Melipona fulva Melipona grandis Melipona illota Melipona rufiventris
+Melipona favosa,Melipona_favosa_avg.asc,1,0,1,2547,1,
+Melipona fuliginosa,Melipona_fuliginosa_avg.asc,1,0,1,2000,1,Melipona panamica Melipona quadrifasciata
+Melipona scutellaris,Melipona_scutellaris_avg.asc,1,0,1,2600,1,
+Melipona subnitida,Melipona_subnitida_avg.asc,1,0,1,3000,1,
+Partamona ailyae,Partamona_ailyae_avg.asc,1,1,1,800,1,
+Partamona bilineata,Partamona_bilineata_avg.asc,1,0,1,800,1,Partamona grandipennis Partamona helleri Partamona musarum Partamona peckolti Partamona testacea Partamona vicina
+Partamona combinatea,Partamona_combinatea_avg.asc,1,1,1,800,1,Partamona cupira Partamona epiphytophyla Partamona orizabaensis
+Scaptotrigona bipunctata,Scaptotrigona_bipunctata_avg.asc,1,0,1,1000,1,
+Scaptotrigona depilis,Scaptotrigona_depilis_avg.asc,1,0,1,1215,1,Scaptotrigona hellwegeri Scaptotrigona luteipennis Scaptotrigona mexicana Scaptotrigona pectoralis Scaptotrigona polysticta Scaptotrigona subobscuripennis
+Scaptotrigona postica,Scaptotrigona_postica_avg.asc,1,0,1,1430,1,
+Tetragonisca angustula,Tetragonisca_angustula_avg.asc,1,0,1,600,1,
