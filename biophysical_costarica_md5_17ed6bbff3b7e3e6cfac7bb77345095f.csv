@@ -1,0 +1,39 @@
+lucode,description,nesting_cavity_availability_index,nesting_ground_availability_index,floral_resources_spring_index
+1,Cultivos anuales,0,0,0
+3,Cultivo permanente,0,0,0
+4,Pastos,0.2,0.1,0.2
+6,Bosque secundario,1,1,1
+7,Plantaciones forestales,1,1,1
+8,Bosque maduro,1,1,1
+9,Terreno descubierto,0,0.1,0.1
+10,Areas Urbanas,0.34,0.34,0.23
+11,Charral y tacotal,0.3,0.2,0.3
+12,Uso mixto,0.5,0.5,0.5
+13,Areas quemadas,0.1,0.1,0.15
+14,Manglar,0.665,0.665,0.68
+15,Humedal,0.33,0.33,0.36
+16,Paramo,0.3,0.2,0.3
+17,Forest - Chris,1,1,1
+20,Palma - PRIAS,0,0,0
+21,Pastos - PRIAS,0.2,0.1,0.2
+22,Pina - PRIAS,0,0,0
+23,Cafe- iCAFE,0.2,0.1,0.5
+30,Streams from DEM,0,0,0
+1010,Cropland: rainfed - ESA,0,0,0
+1011,Herbaceous cover - ESA,0.1,0.05,0.1
+1030,Mosaic cropland (>50%) / natural vegetation (tree: shrub: herbaceous cover) (<50%) - ESA,0.3,0.3,0.3
+1040,Mosaic natural vegetation (tree: shrub: herbaceous cover) (>50%) / cropland (<50%) - ESA,0.7,0.7,0.7
+1050,Tree cover: broadleaved: evergreen: closed to open (>15%) - ESA,1,1,1
+1060,Tree cover: broadleaved: deciduous: closed to open (>15%) - ESA,1,1,1
+1080,Tree cover: needleleaved: deciduous: closed to open (>15%) - ESA,1,1,1
+1090,Tree cover: mixed leaf type (broadleaved and needleleaved) - ESA,1,1,1
+1100,Mosaic tree and shrub (>50%) / herbaceous cover (<50%) - ESA,0.3,0.2,0.3
+1110,Mosaic herbaceous cover (>50%) / tree and shrub (<50%) - ESA,0.3,0.2,0.3
+1120,Shrubland - ESA,0.3,0.2,0.3
+1130,Grassland - ESA,0.2,0.1,0.2
+1160,Tree cover: flooded: fresh or brakish water - ESA,0.665,0.665,0.68
+1170,Tree cover: flooded: saline water - ESA,0.665,0.665,0.68
+1180,Shrub or herbaceous cover: flooded: fresh/saline/brakish water - ESA,0.165,0.165,0.18
+1190,Urban areas - ESA,0.34,0.34,0.23
+1200,Bare areas - ESA,0,0.1,0.1
+1210,Water bodies - ESA,0,0,0
